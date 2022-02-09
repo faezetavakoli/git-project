@@ -1,0 +1,28 @@
+body{
+    background-color: skyblue;
+}
+.login-form .input-text
+{
+    padding: 5px;
+    border-radius: 20%;
+    text-shadow: blue;
+    background-color: blanchedalmond;
+    margin-left: 20px;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:indigo;
+    margin-left: 30%;
+}
+label{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    margin-left: 30%;
+}
+button
+{
+    margin-left: 505px;
+    padding: 5px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
